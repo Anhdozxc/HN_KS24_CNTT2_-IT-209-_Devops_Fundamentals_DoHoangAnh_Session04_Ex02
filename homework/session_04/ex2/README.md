@@ -1,5 +1,5 @@
-\# Session 04 - Branch Management
+# Session 04 - Branch Management
 
-\## Nội dung
+## Nội dung
 
-Thực hành cập nhật README trên nhánh chính main.
+Thực hành cập nhật README trên cả nhánh main và nhánh feature.
